@@ -2,7 +2,7 @@
   "name": "voices-echo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kempo.github.io/echoes",
+  "homepage": "http://kempo.github.io/echoing-voices",
   "dependencies": {
     "@types/jest": "23.3.13",
     "@types/node": "10.12.18",
