@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/echoing-voices/static/media/tweet2.54819fcf.png"
   },
   {
-    "revision": "b755a66d794dd8fc1f6f",
+    "revision": "e21633db247b9ec68b06",
     "url": "/echoing-voices/static/css/main.eb17c265.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/echoing-voices/static/media/tweet1.5808b982.png"
   },
   {
-    "revision": "b755a66d794dd8fc1f6f",
-    "url": "/echoing-voices/static/js/main.b755a66d.chunk.js"
+    "revision": "e21633db247b9ec68b06",
+    "url": "/echoing-voices/static/js/main.e21633db.chunk.js"
   },
   {
     "revision": "38a4e5c59a5b667ca69be2db5d1664fa",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/echoing-voices/static/media/tweet9.77dcb2ff.png"
   },
   {
-    "revision": "3766a97f94c51c975cd87cbc6c85e9d7",
+    "revision": "bb3d0e2952b3efc99732479ff4d5712e",
     "url": "/echoing-voices/index.html"
   }
 ];
